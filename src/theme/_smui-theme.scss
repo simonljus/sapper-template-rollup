@@ -1,0 +1,5 @@
+@import "@material/theme/color-palette";
+@import "./text_field.scss"; // for component styling in a separate file
+// material theme here
+$mdc-theme-primary: green;
+$mdc-theme-secondary: blue;
